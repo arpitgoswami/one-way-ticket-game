@@ -1,3 +1,6 @@
+<img width="1917" height="1078" alt="Screenshot 2026-10-18 175715" src="https://github.com/user-attachments/assets/7c34ba84-051c-40ea-aa4c-b76ee1e6446c" />
+<img width="1917" height="1078" alt="Screenshot 2026-10-18 175836" src="https://github.com/user-attachments/assets/a55bbb53-75b2-4459-a787-95f18e62340f" />
+
 # ONE WAY TICKET 🧟
 
 A first-person zombie survival horror game built with **Godot 4.3 and GDScript**. Survive endless waves of zombies in a spooky graveyard, upgrade your arsenal, and see how long you can stay alive.
