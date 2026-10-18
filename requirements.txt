@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-requests
-requests_oauthlib
-python-multipart
-python-dotenv
